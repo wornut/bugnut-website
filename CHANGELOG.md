@@ -1,3 +1,6 @@
+## v0.2.1
+- _improve_ tailwind purge feature
+
 ## v0.2.0
 - _add_ `vue-router-next`
 - _add_ `tailwindcss`
